@@ -1,0 +1,1 @@
+8e967d3d-8c5c-4ea5-821f-ba5057b035d9 autoenable=true bucket=bobsrepository datacenter=us-east-2 encryption=none exporttree=yes host=s3.amazonaws.com name=aws port=80 public=yes signature=v4 storageclass=STANDARD type=S3 versioning=yes timestamp=1719354130.802538261s
