@@ -1,1 +1,5 @@
-.git/annex/objects/57/Vj/MD5E-s226--c8ab24dc2104b8e854a4a222b20a3589.md/MD5E-s226--c8ab24dc2104b8e854a4a222b20a3589.md
+# README
+
+## About
+The Baby Open Brains Repository, or BOBs Repository, is an open source resource of infant brain segmentations. For more information, please visit the [BOBs website](https://bobsrepository.readthedocs.io/).
+
