@@ -1,1 +1,20 @@
-/annex/objects/SHA256E-s552--348553ef3f64abb71085ccd0f327926cb22d02df9d0df2dc8789124c8b7450a9.json
+{
+    "session_id": {
+        "Description": "Session ID of the participant"
+    },
+    "age": {
+        "Description": "Chronological age of the participant",
+        "Units": "months"
+    },
+    "gestational_age_at_birth": {
+        "Description": "Gestational age of the participant age birth",
+        "Units": "weeks"
+    },
+    "sex": {
+        "Description": "String value indicating phenotypical sex assigned at birth, either 'Male' or 'Female'.",
+        "Levels": {
+            "Male": "male",
+            "Female": "female"
+        }
+    }
+}
