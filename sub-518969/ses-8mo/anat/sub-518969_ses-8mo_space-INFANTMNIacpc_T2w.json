@@ -1,1 +1,18 @@
-../../../.git/annex/objects/kF/F1/SHA256E-s474--157fbe98bcab859b9d464c81d4173d5e497253bce6eb2e0c334d2f0e78d8ffb7.json/SHA256E-s474--157fbe98bcab859b9d464c81d4173d5e497253bce6eb2e0c334d2f0e78d8ffb7.json
+{
+    "Name": "BOBS Repo",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "derivative",
+    "Description": "T1w and T2w files are preprocessed BCP intermediate pipline outputs from the DCAN-Labs infant-abcd-bids-pipeline",
+
+    "GeneratedBy": [
+      {
+        "Name": "infant-abcd-bids-pipeline",
+        "Version": "0.0.9",
+        "Container": {
+          "Type": "docker"
+          }
+      }
+    ],
+    "SpatialReference":"INFANTMNIacpc",
+    "SkullStripped": false
+  }
