@@ -1,0 +1,20 @@
+{
+    "session_id": {
+        "Description": "Session ID of the participant"
+    },
+    "age": {
+        "Description": "Chronological age of the participant",
+        "Units": "months"
+    },
+    "gestational_age_at_birth": {
+        "Description": "Gestational age of the participant age birth",
+        "Units": "weeks"
+    },
+    "sex": {
+        "Description": "String value indicating phenotypical sex assigned at birth, either 'Male' or 'Female'.",
+        "Levels": {
+            "Male": "male",
+            "Female": "female"
+        }
+    }
+}
