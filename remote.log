@@ -1,0 +1,2 @@
+1387794c-ad2e-4304-bd7f-b364cc45ee46 encryption=none externaltype=openneuro name=openneuro publicurl=https://openneuro.org/git/0/ds005450/ type=external url=https://openneuro.org/git/0/ds005450 timestamp=1741921199.191552829s
+46c7535f-1bc9-4033-94ed-aed6184e3e85 autoenable=true bucket=bobsrepository datacenter=us-east-2 encryption=none exporttree=yes host=s3.amazonaws.com name=aws port=80 public=yes publicurl=https://bobsrepository.s3.amazonaws.com signature=v4 storageclass=STANDARD type=S3 versioning=yes timestamp=1741813402.19630525s
