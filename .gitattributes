@@ -1,3 +1,4 @@
+* annex.backend=SHA256E
 **/.git* annex.largefiles=nothing
 *.bval annex.largefiles=nothing
 *.bvec annex.largefiles=nothing
